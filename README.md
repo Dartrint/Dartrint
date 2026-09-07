@@ -279,9 +279,9 @@ Data Mining
 
 <br/>
 
-🎯 **Mission**
+🔗 **Project**
 
-Build systems that are not only intelligent, but also measurable, explainable and useful.
+[MA Crossover Strategy →](https://github.com/Dartrint/ma-crossover-strategy)
 
 </td>
 
