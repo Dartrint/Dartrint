@@ -402,22 +402,6 @@ timeline
 
 <!-- ========================================================= -->
 
-<!--                    CONTRIBUTION GRAPH                     -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🐍 Contribution Journey
-
-<img src="https://raw.githubusercontent.com/Dartrint/Dartrint/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-
 <!--                    PHILOSOPHY                             -->
 
 <!-- ========================================================= -->
@@ -429,20 +413,6 @@ timeline
 > **"Don't just use AI. Understand it, measure it, and build something useful with it."**
 
 <br/>
-
-```text
-Research
-   ↓
-Experiment
-   ↓
-Build
-   ↓
-Measure
-   ↓
-Improve
-   ↓
-Repeat 🔁
-```
 
 </div>
 
