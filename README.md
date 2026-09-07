@@ -107,12 +107,12 @@ LLM Orchestration
 
 <td width="33%" align="center">
 
-### 🔎 RAG Systems
+### 📈 Quant Research
 
-Knowledge Retrieval
-Vector Databases
-Embedding Models
-Evaluation & Optimization
+Statistics
+Financial Data
+Time Series
+Portfolio Analysis
 
 </td>
 
@@ -318,12 +318,12 @@ Build systems that are not only intelligent, but also measurable, explainable an
               │        AI SYSTEM           │
               │                            │
               │  ┌────────┐   ┌─────────┐  │
-              │  │  RAG   │──▶│   LLM   │ │
-              │  └────────┘   └────┬────┘ │
-              │                   │       │
-              │              ┌────▼────┐  │
-              │              │ AGENTS  │  │
-              │              └────┬────┘  │
+              │  │  RAG   │─▶│   LLM   │  │
+              │  └────────┘   └────┬────┘  │
+              │                    │       │
+              │              ┌─────▼──┐    │
+              │              │ AGENTS │    │
+              │              └────┬───┘    │
               └───────────────────┼────────┘
                                   │
                                   ▼
