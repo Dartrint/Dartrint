@@ -148,7 +148,7 @@ Data Mining
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,php,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,sql"/>
 
 </p>
 
@@ -317,7 +317,7 @@ Build systems that are not only intelligent, but also measurable, explainable an
               ┌────────────────────────────┐
               │        AI SYSTEM           │
               │                            │
-              │  ┌────────┐   ┌─────────┐ │
+              │  ┌────────┐   ┌─────────┐  │
               │  │  RAG   │──▶│   LLM   │ │
               │  └────────┘   └────┬────┘ │
               │                   │       │
@@ -329,7 +329,7 @@ Build systems that are not only intelligent, but also measurable, explainable an
                                   ▼
                          ┌────────────────┐
                          │ INTELLIGENT    │
-                         │    ACTION     │
+                         │    ACTION      │
                          └────────────────┘
 ```
 
